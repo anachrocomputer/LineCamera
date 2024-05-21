@@ -6,7 +6,7 @@ and the other part runs on a host computer in Processing.
 
 # Hardware #
 
-![TSL1401 sensor](sensor.png "TSL1401 sensor")
+![TSL1401 sensor](sensor.jpg "TSL1401 sensor")
 
 8-pin DIL chip in transparent package.
 
